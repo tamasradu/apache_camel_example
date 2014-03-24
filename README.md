@@ -1,4 +1,4 @@
-Simple SOA example using Apache Camel
+Simple SOA using Apache Camel
 =======================================================
 
 Prerequisite
